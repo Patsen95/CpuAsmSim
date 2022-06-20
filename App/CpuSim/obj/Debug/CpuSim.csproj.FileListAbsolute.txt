@@ -1,0 +1,11 @@
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\bin\Debug\CpuSim.exe.config
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\bin\Debug\CpuSim.exe
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\bin\Debug\CpuSim.pdb
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.CodeBox.resources
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.Form1.resources
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.Properties.Resources.resources
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.csproj.GenerateResource.cache
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.exe
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.pdb
+C:\Users\Patryk\Documents\GitHub\CpuAsmSim\App\CpuSim\obj\Debug\CpuSim.csproj.AssemblyReference.cache
